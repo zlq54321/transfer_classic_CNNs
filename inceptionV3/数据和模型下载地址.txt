@@ -1,0 +1,6 @@
+数据集来自
+http://download.tensorflow.org/example_images/flower_photos.tgz
+及谷歌提供的Inception-v3模型
+http://download.tensorflow.org/models/inception_v3_2016_08_28.tar.gz
+自行下载和解压。
+解压后的文件夹包含5个子文件夹，每个子文件夹的名称为一种花的名称，代表了不同的类别。
